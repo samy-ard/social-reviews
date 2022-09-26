@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [solution](https://github.com/samy-ard/social-reviews/)
-- Live Site URL: [live site URL](https://samy-ard.github.com/social-reviews/)
+- Live Site URL: [live site URL](https://samy-ard.github.io/social-reviews/)
 
 ## My process
 
